@@ -1,10 +1,14 @@
 ---
-layout: post
 title: You got to cool that off. And that's the double-truth
+date: 2017-01-22 00:00:00 Z
+tags:
+- frontpage
+- jekyll
+- blog
+layout: post
 featured: true
 author: ahmad
-tags: [frontpage, jekyll, blog]
-image: '/images/posts/20.jpg'
+image: "/images/posts/20.jpg"
 ---
 
 Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.

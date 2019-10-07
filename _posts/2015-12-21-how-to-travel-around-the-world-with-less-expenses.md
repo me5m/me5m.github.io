@@ -1,9 +1,13 @@
 ---
-layout: post
 title: How to travel around the world with less expenses
+date: 2015-12-21 00:00:00 Z
+tags:
+- frontpage
+- jekyll
+- blog
+layout: post
 author: ahmad
-tags: [frontpage, jekyll, blog]
-image: '/images/posts/14.jpg'
+image: "/images/posts/14.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec diam augue, luctus a lacus vitae, ullamcorper interdum lacus. Sed consequat, nisi non mattis euismod, mi metus venenatis lacus, id feugiat orci mi eu urna. Donec condimentum lacus eget nibh consectetur, ac venenatis erat tristique. Nunc eros metus, venenatis in cursus ut, aliquam eu diam.
